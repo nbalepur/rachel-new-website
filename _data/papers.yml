@@ -1,4 +1,156 @@
 - "year": !!int |-
+    2025
+  "papers":
+  - "title": |-
+      NLI under the Microscope: What Atomic Hypothesis Decomposition Reveals
+    "authors": |-
+      Neha Srikanth, Rachel Rudinger
+    "show": !!bool |-
+      true
+    "venue": |-
+      NAACL
+  - "title": |-
+      Tracking Evolving Relationship Between Characters in Books in the Era of Large Language Models
+    "authors": |-
+      Abhilasha Sancheti, Rachel Rudinger
+    "show": !!bool |-
+      true
+    "venue": |-
+      Proceedings of the The 7th Workshop on Narrative Understanding
+  - "title": |-
+      On the Mutual Influence of Gender and Occupation in LLM Representations
+    "authors": |-
+      Haozhe An, Connor Baumler, Abhilasha Sancheti, Rachel Rudinger
+    "show": !!bool |-
+      true
+    "venue": |-
+      ACL
+  - "title": |-
+      Language Models Predict Empathy Gaps Between Social In-groups and Out-groups
+    "authors": |-
+      Yu Hou, Hal Daumé III, Rachel Rudinger
+    "show": !!bool |-
+      true
+    "venue": |-
+      NAACL
+  - "title": |-
+      Speaking the Right Language: The Impact of Expertise Alignment in User-AI Interactions
+    "authors": |-
+      Shramay Palta, Nirupama Chandrasekaran, Rachel Rudinger, Scott Counts
+    "show": !!bool |-
+      true
+    "venue": |-
+      arXiv
+  - "title": |-
+      Multiple LLM Agents Debate for Equitable Cultural Alignment
+    "authors": |-
+      Dayeon Ki, Rachel Rudinger, Tianyi Zhou, Marine Carpuat
+    "show": !!bool |-
+      true
+    "venue": |-
+      ACL
+  - "title": |-
+      Whose Boat Does it Float? Improving Personalization in Preference Tuning via Inferred User Personas
+    "authors": |-
+      Nishant Balepur, Vishakh Padmakumar, Fumeng Yang, Shi Feng, Rachel Rudinger, Jordan L. Boyd-Graber
+    "show": !!bool |-
+      true
+    "venue": |-
+      ACL
+  - "title": |-
+      Which of These Best Describes Multiple Choice Evaluation with LLMs? A) Forced B) Flawed C) Fixable D) All of the Above
+    "authors": |-
+      Nishant Balepur, Rachel Rudinger, Jordan L. Boyd-Graber
+    "show": !!bool |-
+      true
+    "venue": |-
+      ACL
+  - "title": |-
+      No Questions are Stupid, but some are Poorly Posed: Understanding Poorly-Posed Information-Seeking Questions
+    "authors": |-
+      Neha Srikanth, Rachel Rudinger, J. Boyd-Graber
+    "show": !!bool |-
+      true
+    "venue": |-
+      ACL
+- "year": !!int |-
+    2024
+  "papers":
+  - "title": |-
+      Do Large Language Models Discriminate in Hiring Decisions on the Basis of Race, Ethnicity, and Gender?
+    "authors": |-
+      Haozhe An, Christabel Acquaye, Colin Wang, Zongxia Li, Rachel Rudinger
+    "show": !!bool |-
+      true
+    "venue": |-
+      ACL
+  - "title": |-
+      On the Influence of Gender and Race in Romantic Relationship Prediction from Large Language Models
+    "authors": |-
+      Abhilasha Sancheti, Haozhe An, Rachel Rudinger
+    "show": !!bool |-
+      true
+    "venue": |-
+      EMNLP
+  - "title": |-
+      Artifacts or Abduction: How Do LLMs Answer Multiple-Choice Questions Without the Question?
+    "authors": |-
+      Nishant Balepur, Abhilasha Ravichander, Rachel Rudinger
+    "show": !!bool |-
+      true
+    "venue": |-
+      ACL
+  - "title": |-
+      Natural Language Inference Improves Compositionality in Vision-Language Models
+    "authors": |-
+      Paola Cascante-Bonilla, Yu Hou, Yang Trista Cao, Hal Daumé III, Rachel Rudinger
+    "show": !!bool |-
+      true
+    "venue": |-
+      ICLR
+  - "title": |-
+      Susu Box or Piggy Bank: Assessing Cultural Commonsense Knowledge between Ghana and the US
+    "authors": |-
+      Christabel Acquaye, Haozhe An, Rachel Rudinger
+    "show": !!bool |-
+      true
+    "venue": |-
+      EMNLP
+  - "title": |-
+      Is Your Large Language Model Knowledgeable or a Choices-Only Cheater?
+    "authors": |-
+      Nishant Balepur, Rachel Rudinger
+    "show": !!bool |-
+      true
+    "venue": |-
+      KNOWLLM
+  - "title": |-
+      How Often Are Errors in Natural Language Reasoning Due to Paraphrastic Variability?
+    "authors": |-
+      Neha Srikanth, Marine Carpuat, Rachel Rudinger
+    "show": !!bool |-
+      true
+    "venue": |-
+      TACL
+    "pdf": |-
+      https://doi.org/10.1162/tacl_a_00692
+  - "title": |-
+      Reverse Question Answering: Can an LLM Write a Question so Hard (or Bad) that it Can't Answer?
+    "authors": |-
+      Nishant Balepur, Feng Gu, Abhilasha Ravichander, Shi Feng, Jordan L. Boyd-Graber, Rachel Rudinger
+    "show": !!bool |-
+      true
+    "venue": |-
+      NAACL
+  - "title": |-
+      Plausibly Problematic Questions in Multiple-Choice Benchmarks for Commonsense Reasoning
+    "authors": |-
+      Shramay Palta, Nishant Balepur, Peter Rankel, Sarah Wiegreffe, Marine Carpuat, Rachel Rudinger
+    "show": !!bool |-
+      true
+    "venue": |-
+      EMNLP
+- "year": !!int |-
     2023
   "papers":
   - "title": |-
@@ -155,6 +307,14 @@
       ACL
     "pdf": |-
       https://aclanthology.org/2021.acl-short.129.pdf
+  - "title": |-
+      Schema Curation via Causal Association Rule Mining
+    "authors": |-
+      Noah Weber, Anton Belyy, Nils Holzenberger, Rachel Rudinger, Benjamin Van Durme
+    "show": !!bool |-
+      true
+    "venue": |-
+      arXiv
 - "year": !!int |-
     2020
   "papers":
