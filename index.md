@@ -10,7 +10,7 @@ layout: default
 function handleImageError(img) {
   // Only fallback if we're not already showing the default image
   if (img.src.indexOf('default.jpg') === -1) {
-    img.src = '/assets/images/default.jpg';
+    img.src = '{{ site.baseurl }}/assets/images/default.jpg';
   }
 }
 
@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-<img src="assets/images/rr.jpg" alt="Drawing" style="width: 200px;"/> 
+<img src="{{ site.baseurl }}/assets/images/rr.jpg" alt="Drawing" style="width: 200px;"/> 
 
 
 I am an Assistant Professor in [Computer Science](https://www.cs.umd.edu/) at the University of Maryland, College Park.

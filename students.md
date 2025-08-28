@@ -10,7 +10,7 @@ group: navigation
 function handleImageError(img) {
   // Only fallback if we're not already showing the default image
   if (img.src.indexOf('default.jpg') === -1) {
-    img.src = '/assets/images/default.jpg';
+    img.src = '{{ site.baseurl }}/assets/images/default.jpg';
   }
 }
 
@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 {% for student in category.students %}
   <div style="margin-bottom: 30px; display: flex; align-items: flex-start;">
-    <img src="/assets/images/{% if student.image %}{{ student.image }}{% else %}default.jpg{% endif %}" 
+    <img src="{{ site.baseurl }}/assets/images/{% if student.image %}{{ student.image }}{% else %}default.jpg{% endif %}" 
          alt="{{ student.name }}" 
          style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; margin-right: 20px; flex-shrink: 0;">
     
