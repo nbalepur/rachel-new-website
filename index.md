@@ -5,6 +5,26 @@
 layout: default
 ---
 
+<script>
+// Image fallback handler for profile images
+function handleImageError(img) {
+  // Only fallback if we're not already showing the default image
+  if (img.src.indexOf('default.jpg') === -1) {
+    img.src = '/assets/images/default.jpg';
+  }
+}
+
+// Apply fallback to all profile images on page load
+document.addEventListener('DOMContentLoaded', function() {
+  const profileImages = document.querySelectorAll('img[src*="/assets/images/"]');
+  profileImages.forEach(img => {
+    img.addEventListener('error', function() {
+      handleImageError(this);
+    });
+  });
+});
+</script>
+
 <img src="assets/images/rr.jpg" alt="Drawing" style="width: 200px;"/> 
 
 

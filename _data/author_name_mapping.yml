@@ -1,0 +1,10 @@
+# Author name mapping for corrections
+# Format: "API Name": "Corrected Name"
+
+# Common author name corrections
+"Hal Daumé": "Hal Daumé III"
+"Hal Daumé III": "Hal Daumé III"  # Keep as is if already correct
+"Hal Daum'e": "Hal Daumé III"  # Handle encoding variations
+"Hal Daume": "Hal Daumé III"  # Handle encoding variations
+
+# Add other known corrections here as needed

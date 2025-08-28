@@ -1,0 +1,67 @@
+# Venue mapping for common conferences and journals
+# Format: "Full Name": "Shorthand"
+
+# ACL conferences
+"Annual Meeting of the Association for Computational Linguistics": "ACL"
+"Proceedings of the Annual Meeting of the Association for Computational Linguistics": "ACL"
+"Proceedings of the Association for Computational Linguistics": "ACL"
+
+# NAACL
+"North American Chapter of the Association for Computational Linguistics": "NAACL"
+"Proceedings of the North American Chapter of the Association for Computational Linguistics": "NAACL"
+
+# EMNLP
+"Conference on Empirical Methods in Natural Language Processing": "EMNLP"
+"Proceedings of the Conference on Empirical Methods in Natural Language Processing": "EMNLP"
+
+# EACL
+"European Chapter of the Association for Computational Linguistics": "EACL"
+"Proceedings of the European Chapter of the Association for Computational Linguistics": "EACL"
+
+# ICLR
+"International Conference on Learning Representations": "ICLR"
+
+# ICML
+"International Conference on Machine Learning": "ICML"
+
+# NeurIPS
+"Advances in Neural Information Processing Systems": "NeurIPS"
+"Neural Information Processing Systems": "NeurIPS"
+
+# AAAI
+"AAAI Conference on Artificial Intelligence": "AAAI"
+"Proceedings of the AAAI Conference on Artificial Intelligence": "AAAI"
+
+# IJCAI
+"International Joint Conference on Artificial Intelligence": "IJCAI"
+
+# TACL
+"Transactions of the Association for Computational Linguistics": "TACL"
+
+# Computational Linguistics
+"Computational Linguistics": "CL"
+
+# IWCS
+"International Conference on Computational Semantics": "IWCS"
+
+# *SEM
+"Conference on Lexical and Computational Semantics": "*SEM"
+
+# LREC
+"Language Resources and Evaluation Conference": "LREC"
+
+# arXiv
+"arXiv.org": "arXiv"
+"arXiv preprint": "arXiv"
+
+# Preprints
+"preprint": "Preprint"
+"Preprint": "Preprint"
+
+# Workshops
+"Linguistic Annotation Workshop": "LAW"
+"Ethics in Natural Language Processing": "EthNLP"
+
+# Other common venues
+"Web manuscript": "Web"
+"Doctoral Dissertation": "Dissertation"

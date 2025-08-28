@@ -8,14 +8,19 @@ group: navigation
 {% include JB/setup %}
 {% endcomment %}
 
+For the most up-to-date list of my publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=QKCHaHUAAAAJ&hl=en&oi=ao).
+
 {% for y in site.data.papers %}
   <p>
   <b>{{ y.year }}</b>
   {% for p in y.papers %}
+    {% unless p.show == false %}
     <p>
     <i>{{ p.title }}</i>
     {{ p.authors }}.
+    {% if p.venue %}
     {{ p.venue }}.
+    {% endif %}
 
     {% if p.year != null %}
     {{ p.year }}.
@@ -38,7 +43,11 @@ group: navigation
     {% endif %}
    
     </p>
+    {% endunless %}
   {% endfor %}
   </p>
 {% endfor %}
+
+<br />
+<p><strong>Note:</strong> This publication list was automatically parsed from Semantic Scholar. There may be inaccuracies or missing publications.</p>
 

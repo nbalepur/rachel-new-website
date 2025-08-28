@@ -1,174 +1,507 @@
-- year: 2023
-  papers:
-    - title: "FORK: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models"
-      venue: "Findings of ACL"
-      authors: "Shramay Palta, Rachel Rudinger"
-    - title: "Nichelle and Nancy: The Influence of Demographic Attributes and Tokenization Length on First Name Biases"
-      venue: "ACL"
-      authors: "Haozhe An, Rachel Rudinger"
-    - title: "Use Defines Possibilities: Reasoning about Object Function to Interpret and Execute Robot Instructions"
-      venue: "IWCS"
-      authors: Mollie Schichman, Claire Bonial, Austin Blodgett, Taylor Hudson, Francis Ferraro, Rachel Rudinger
-- year: 2022
-  papers:
-    - title: "What to Read in a Contract? Party-Specific Summarization of Important Obligations, Entitlements, and Prohibitions in Legal Documents"
-      venue: "arXiv pre-print"
-      authors: "Abhilasha Sancheti, Aparna Garimella, Balaji Vasan Srinivasan, Rachel Rudinger"
-    - title: "Agent-Specific Deontic Modality Detection in Legal Language"
-      venue: "EMNLP"
-      authors: "Abhilasha Sancheti, Aparna Garimella, Balaji Vasan Srinivasan, Rachel Rudinger"
-    - title: "SODAPOP: Open-Ended Discovery of Social Biases in Social Commonsense Reasoning Models"
-      venue: "EACL"
-      authors: "Haozhe An, Zongxia Li, Jieyu Zhao, Rachel Rudinger"
-    - title: "Recognition of They/Them as Singular Personal Pronouns in Coreference Resolution"
-      venue: "NAACL"
-      authors: "Connor Baumler, Rachel Rudinger"
-    - title: "Theory-Grounded Measurements of U.S. Social Stereotypes in English Language Models"
-      venue: "NAACL"
-      authors: "Yang Trista Cao, Anna Sotnikova, Hal Daumé III, Rachel Rudinger, Linda Zou"
-    - title: "Partial-input baselines show that NLI models can ignore context, but they don't"
-      venue: "NAACL"
-      authors: "Neha Srikanth, Rachel Rudinger"
-    - title: "Entailment Relation Aware Paraphrase Generation"
-      venue: "AAAI"
-      authors: "Abhilasha Sancheti, Rachel Rudinger, Balaji Vasan Srinivasan"
-    - title: "Human Schema Curation via Causal Association Rule Mining"
-      venue: "LAW-XVI (Linguistic Annotation Workshop) at LREC"
-      authors: Noah Weber, Anton Belyy, Nils Holzenberger, Rachel Rudinger, Benjamin Van Durme"
-    - title: "What do Large Language Models Learn about Scripts?"
-      venue: "*SEM"
-      authors: "Abhilasha Sancheti, Rachel Rudinger"
-- year: 2021
-  papers:
-    - title: "Analyzing Stereotypes in Generative Text Inference Tasks"
-      venue: "Findings of ACL-IJCNLP"
-      authors: "Anna Sotnikova, Yang Trista Cao, Hal Daumé III, Rachel Rudinger"
-    - title: "MedNLI is not Immune: Natural Language Inference Artifacts in the Clinical Domain"
-      venue: "ACL"
-      authors: "Christine Herlihy, Rachel Rudinger"
-    - title: "Learning to Rationalize for Nonmonotonic Reasoning with Distant Supervision"
-      venue: "AAAI"
-      authors: "Faeze Brahman, Vered Shwartz, Rachel Rudinger, Yejin Choi"
-- year: 2020
-  papers:
-    - title: "Thinking Like a Skeptic: Defeasible Inference in Natural Language"
-      venue: "Findings of EMNLP"
-      authors: "Rachel Rudinger, Vered Shwartz, Jena D. Hwang, Chandra Bhagavatula, Maxwell Forbes, Ronan Le Bras, Noah A. Smith, Yejin Choi"
-    - title: "\"You are grounded!\": Latent Name Artifacts in Pre-trained Language Models"
-      venue: "EMNLP"
-      authors: "Vered Shwartz, Rachel Rudinger, Oyvind Tafjord"
-    - title: "Causal Inference of Script Knowledge"
-      venue: "EMNLP"
-      authors: "Noah Weber, Rachel Rudinger, Benjamin Van Durme"
-- year: 2019
-  papers:
-    - title: "Decompositional Semantics for Events,
-Participants, and Scripts in Text."
-      venue: "Doctoral Dissertation"
-      authors: "Rachel Rudinger"
-    - title: "The Universal Decompositional Semantics Dataset and Decomp Toolkit."
-      venue: "arXiv"
-      authors: "Aaron Steven White, Elias Stengel-Eskin, Siddharth Vashishtha, Venkata Govindarajan, Dee Ann Reisinger, Tim Vieira, Keisuke Sakaguchi, Sheng Zhang, Francis Ferraro, Rachel Rudinger, Kyle Rawlins, Benjamin Van Durme"
-      pdf: "https://arxiv.org/pdf/1909.13851.pdf"
-    - title: "On Measuring Social Biases in Sentence Encoders."
-      venue: "NAACL"
-      authors: "Chandler May, Alex Wang, Shikha Bordia, Sam Bowman, and Rachel Rudinger"
-      pdf: "https://arxiv.org/pdf/1903.10561.pdf"
-    - title: "ParaBank: Monolingual Bitext Generation and Sentential Paraphrasing via Lexically-constrained Neural Machine Translation."
-      venue: "AAAI"
-      authors: "Edward Hu, Rachel Rudinger, Matt Post, and Benjamin Van Durme"
-      pdf: "https://arxiv.org/pdf/1901.03644.pdf"
-- year: 2018
-  papers:
-    - title: "Neural-Davidsonian Semantic Proto-role Labeling."
-      venue: "EMNLP"
-      authors: "Rachel Rudinger, Adam Teichert, Ryan Culkin, Sheng Zhang, and Benjamin Van Durme"
-      pdf: "http://aclweb.org/anthology/D18-1114"
-      code: "https://github.com/decomp-sem/neural-sprl"
-    - title: "Cross-lingual Decompositional Semantic Parsing."
-      venue: "EMNLP"
-      authors: "Sheng Zhang, Xutai Ma, Rachel Rudinger, Kevin Duh and Benjamin Van Durme"
-      pdf: "http://aclweb.org/anthology/D18-1194"
-      code: "https://github.com/decompositional-semantics-initiative/X-DSP"
-    - title: "Lexicosyntactic Inference in Neural Models."
-      venue: "EMNLP"
-      authors: "Aaron Steven White, Rachel Rudinger, Kyle Rawlins and Benjamin Van Durme"
-      pdf: "http://aclweb.org/anthology/D18-1501"
-    - title: "Collecting Diverse Natural Language Inference Problems for Sentence Representation Evaluation."
-      venue: "EMNLP"
-      authors: "Adam Poliak, Aparajita Haldar, Rachel Rudinger, J. Edward Hu, Ellie Pavlick, Aaron Steven White and Benjamin Van Durme"
-      pdf: "http://aclweb.org/anthology/D18-1007"
-      data: "http://decomp.io/projects/diverse-natural-language-inference/"
-    - title: "Hypothesis Only Baselines in Natural Language Inference."
-      venue: "*SEM"
-      authors: "Adam Poliak, Jason Naradowsky, Aparajita Haldar, Rachel Rudinger, and Benjamin Van Durme"
-      pdf: "http://www.cs.jhu.edu/~apoliak1/papers/HYPOTHESIS-ONLY-BASELINES-NLI.pdf"
-      code: "https://github.com/azpoliak/hypothesis-only-NLI"
-    - title: "Gender Bias in Coreference Resolution."
-      venue: "NAACL"
-      authors: "Rachel Rudinger, Jason Naradowsky, Brian Leonard, and Benjamin Van Durme"
-      pdf: "https://arxiv.org/abs/1804.09301"
-      data: "https://github.com/rudinger/winogender-schemas"
-    - title: "Neural Models of Factuality."
-      venue: "NAACL"
-      authors: "Rachel Rudinger, Aaron Steven White, and Benjamin Van Durme"
-      pdf: "https://arxiv.org/pdf/1804.02472.pdf"
-      data: "http://decomp.io/projects/factuality/"
-- year: 2017
-  papers:
-    - title: "Skip-Prop: Representing Sentences with One Vector Per Proposition."
-      venue: "IWCS"
-      authors: "Rachel Rudinger, Kevin Duh, and Benjamin Van Durme"
-      pdf: "http://www.aclweb.org/anthology/W17-6936"
-    - title: "A Large-scale Evaluation of PredPatt against PropBank."
-      venue: "IWCS"
-      authors: "Sheng Zhang, Rachel Rudinger, and Benjamin Van Durme"
-      pdf: "http://www.aclweb.org/anthology/W17-6944"
-    - title: "Ordinal Common-sense Inference."
-      venue: "TACL"
-      authors: "Sheng Zhang, Rachel Rudinger, Kevin Duh, and Benjamin Van Durme"
-      pdf: "https://arxiv.org/pdf/1611.00601.pdf"
-      data: "http://decomp.io/projects/common-sense-inference/"
-    - title: "Social Bias in Elicited Natural Language Inferences."
-      venue: "Ethics in Natural Language Processing"
-      authors: "Rachel Rudinger, Chandler May, and Benjamin Van Durme"
-      pdf: "http://www.ethicsinnlp.org/workshop/pdf/EthNLP09.pdf"
-      code: "https://github.com/cjmay/snli-ethics"
-- year: 2016
-  papers:
-    - title: "Universal decompositional semantics on universal dependencies."
-      venue: "EMNLP"
-      authors: "Aaron Steven White, D. Reisinger, Keisuke Sakaguchi, Tim Vieira, Sheng Zhang, Rachel Rudinger, Kyle Rawlins, and Benjamin Van Durme"
-      pdf: "https://aclweb.org/anthology/D/D16/D16-1177.pdf"
-    - title: "Computational linking theory."
-      venue: "Web manuscript"
-      authors: "Aaron Steven White, D. Reisinger, Rachel Rudinger, Kyle Rawlins, and Benjamin Van Durme"
-      pdf: "https://arxiv.org/pdf/1610.02544.pdf"
-- year: 2015
-  papers:
-    - title: "Semantic Proto-Roles."
-      venue: "TACL"
-      authors: "D. Reisinger, Rachel Rudinger, Francis Ferraro, Craig Harman, Kyle Rawlins, and Benjamin Van Durme"
-      pdf: "https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/674/149"
-    - title: "Script Induction as Language Modeling."
-      venue: "EMNLP"
-      authors: "Rachel Rudinger, Pushpendre Rastogi, Francis Ferraro, and Benjamin Van Durme"
-      pdf: "http://www.aclweb.org/anthology/D/D15/D15-1195.pdf"
-      code: 
-    - title: "Learning to predict script events from domain-specific text."
-      venue: "*SEM"
-      authors: "Rachel Rudinger, Vera Demberg, Ashutosh Modi, Benjamin Van Durme, and Manfred Pinkal"
-      pdf: "http://www.aclweb.org/anthology/S/S15/S15-1.pdf#page=223"
-      code: "https://github.com/rudinger/nachos"
-- year: 2014
-  papers:
-    - title: "Is the Stanford Dependency Representation Semantic?"
-      venue: "ACL 2nd Workshop on EVENTS: Definition, Detection, Coreference, and Representation"
-      authors: Rachel Rudinger and Benjamin Van Durme
-      pdf: "http://acl2014.org/acl2014/W14-29/W14-29-2014.pdf#page=64"
-- year: 2013
-  papers:
-    - title: "Sensespotting: Never let your parallel data tie you to an old domain."
-      venue: "ACL"
-      authors: "Marine Carpuat, Hal Daumé III, Katharine Henry, Ann Irvine, Jagadeesh Jagarlamudi, and Rachel Rudinger"
-      pdf: "http://aclweb.org/anthology/P/P13/P13-1141.pdf"
+- "year": !!int |-
+    2025
+  "papers":
+  - "title": |-
+      NLI under the Microscope: What Atomic Hypothesis Decomposition Reveals
+    "authors": |-
+      Neha Srikanth, Rachel Rudinger
+    "venue": |-
+      NAACL
+  - "title": |-
+      Tracking Evolving Relationship Between Characters in Books in the Era of Large Language Models
+    "authors": |-
+      Abhilasha Sancheti, Rachel Rudinger
+    "venue": |-
+      Proceedings of the The 7th Workshop on Narrative Understanding
+  - "title": |-
+      On the Mutual Influence of Gender and Occupation in LLM Representations
+    "authors": |-
+      Haozhe An, Connor Baumler, Abhilasha Sancheti, Rachel Rudinger
+    "venue": |-
+      ACL
+  - "title": |-
+      Language Models Predict Empathy Gaps Between Social In-groups and Out-groups
+    "authors": |-
+      Yu Hou, Hal Daumé III, Rachel Rudinger
+    "venue": |-
+      NAACL
+  - "title": |-
+      Speaking the Right Language: The Impact of Expertise Alignment in User-AI Interactions
+    "authors": |-
+      Shramay Palta, Nirupama Chandrasekaran, Rachel Rudinger, Scott Counts
+    "venue": |-
+      arXiv
+  - "title": |-
+      Multiple LLM Agents Debate for Equitable Cultural Alignment
+    "authors": |-
+      Dayeon Ki, Rachel Rudinger, Tianyi Zhou, Marine Carpuat
+    "venue": |-
+      ACL
+  - "title": |-
+      Whose Boat Does it Float? Improving Personalization in Preference Tuning via Inferred User Personas
+    "authors": |-
+      Nishant Balepur, Vishakh Padmakumar, Fumeng Yang, Shi Feng, Rachel Rudinger, Jordan L. Boyd-Graber
+    "venue": |-
+      ACL
+  - "title": |-
+      Which of These Best Describes Multiple Choice Evaluation with LLMs? A) Forced B) Flawed C) Fixable D) All of the Above
+    "authors": |-
+      Nishant Balepur, Rachel Rudinger, Jordan L. Boyd-Graber
+    "venue": |-
+      ACL
+  - "title": |-
+      No Questions are Stupid, but some are Poorly Posed: Understanding Poorly-Posed Information-Seeking Questions
+    "authors": |-
+      Neha Srikanth, Rachel Rudinger, J. Boyd-Graber
+    "venue": |-
+      ACL
+- "year": !!int |-
+    2024
+  "papers":
+  - "title": |-
+      Do Large Language Models Discriminate in Hiring Decisions on the Basis of Race, Ethnicity, and Gender?
+    "authors": |-
+      Haozhe An, Christabel Acquaye, Colin Wang, Zongxia Li, Rachel Rudinger
+    "venue": |-
+      ACL
+  - "title": |-
+      On the Influence of Gender and Race in Romantic Relationship Prediction from Large Language Models
+    "authors": |-
+      Abhilasha Sancheti, Haozhe An, Rachel Rudinger
+    "venue": |-
+      EMNLP
+  - "title": |-
+      Artifacts or Abduction: How Do LLMs Answer Multiple-Choice Questions Without the Question?
+    "authors": |-
+      Nishant Balepur, Abhilasha Ravichander, Rachel Rudinger
+    "venue": |-
+      ACL
+  - "title": |-
+      Natural Language Inference Improves Compositionality in Vision-Language Models
+    "authors": |-
+      Paola Cascante-Bonilla, Yu Hou, Yang Trista Cao, Hal Daumé III, Rachel Rudinger
+    "venue": |-
+      ICLR
+  - "title": |-
+      Susu Box or Piggy Bank: Assessing Cultural Commonsense Knowledge between Ghana and the US
+    "authors": |-
+      Christabel Acquaye, Haozhe An, Rachel Rudinger
+    "venue": |-
+      EMNLP
+  - "title": |-
+      Is Your Large Language Model Knowledgeable or a Choices-Only Cheater?
+    "authors": |-
+      Nishant Balepur, Rachel Rudinger
+    "venue": |-
+      KNOWLLM
+  - "title": |-
+      How Often Are Errors in Natural Language Reasoning Due to Paraphrastic Variability?
+    "authors": |-
+      Neha Srikanth, Marine Carpuat, Rachel Rudinger
+    "venue": |-
+      TACL
+    "pdf": |-
+      https://doi.org/10.1162/tacl_a_00692
+  - "title": |-
+      Reverse Question Answering: Can an LLM Write a Question so Hard (or Bad) that it Can't Answer?
+    "authors": |-
+      Nishant Balepur, Feng Gu, Abhilasha Ravichander, Shi Feng, Jordan L. Boyd-Graber, Rachel Rudinger
+    "venue": |-
+      NAACL
+  - "title": |-
+      Plausibly Problematic Questions in Multiple-Choice Benchmarks for Commonsense Reasoning
+    "authors": |-
+      Shramay Palta, Nishant Balepur, Peter Rankel, Sarah Wiegreffe, Marine Carpuat, Rachel Rudinger
+    "venue": |-
+      EMNLP
+- "year": !!int |-
+    2023
+  "papers":
+  - "title": |-
+      Pregnant Questions: The Importance of Pragmatic Awareness in Maternal Health Question Answering
+    "authors": |-
+      Neha Srikanth, Rupak Sarkar, Rachel Rudinger, Jordan Boyd-Graber
+    "venue": |-
+      NAACL
+    "pdf": |-
+      http://arxiv.org/pdf/2311.09542
+  - "title": |-
+      It's Not Easy Being Wrong: Large Language Models Struggle with Process of Elimination Reasoning
+    "authors": |-
+      Nishant Balepur, Shramay Palta, Rachel Rudinger
+    "venue": |-
+      ACL
+    "pdf": |-
+      https://arxiv.org/pdf/2311.07532
+  - "title": |-
+      FORK: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models
+    "authors": |-
+      Shramay Palta, Rachel Rudinger
+    "venue": |-
+      ACL
+    "pdf": |-
+      https://aclanthology.org/2023.findings-acl.631.pdf
+  - "title": |-
+      Use Defines Possibilities: Reasoning about Object Function to Interpret and Execute Robot Instructions
+    "authors": |-
+      Mollie Shichman, C. Bonial, Austin Blodgett, Taylor Hudson, Francis Ferraro, Rachel Rudinger
+    "venue": |-
+      IWCS
+  - "title": |-
+      Nichelle and Nancy: The Influence of Demographic Attributes and Tokenization Length on First Name Biases
+    "authors": |-
+      Haozhe An, Rachel Rudinger
+    "venue": |-
+      ACL
+    "pdf": |-
+      http://arxiv.org/pdf/2305.16577
+  - "title": |-
+      Multilingual large language models leak human stereotypes across language boundaries
+    "authors": |-
+      Yang Trista Cao, Anna Sotnikova, Jieyu Zhao, Linda X. Zou, Rachel Rudinger, Hal Daumé III
+    "venue": |-
+      Proceedings of the Fourth Workshop on NLP for Positive Impact (NLP4PI)
+- "year": !!int |-
+    2022
+  "papers":
+  - "title": |-
+      Agent-Specific Deontic Modality Detection in Legal Language
+    "authors": |-
+      Abhilasha Sancheti, Aparna Garimella, Balaji Vasan Srinivasan, Rachel Rudinger
+    "venue": |-
+      EMNLP
+    "pdf": |-
+      http://arxiv.org/pdf/2211.12752
+  - "title": |-
+      SODAPOP: Open-Ended Discovery of Social Biases in Social Commonsense Reasoning Models
+    "authors": |-
+      Haozhe An, Zongxia Li, Jieyu Zhao, Rachel Rudinger
+    "venue": |-
+      Conference of the European Chapter of the Association for Computational Linguistics
+    "pdf": |-
+      http://arxiv.org/pdf/2210.07269
+  - "title": |-
+      What to Read in a Contract? Party-Specific Summarization of Important Obligations, Entitlements, and Prohibitions in Legal Documents
+    "authors": |-
+      Abhilasha Sancheti, Aparna Garimella, Balaji Vasan Srinivasan, Rachel Rudinger
+    "venue": |-
+      arXiv
+    "pdf": |-
+      http://arxiv.org/pdf/2212.09825
+  - "title": |-
+      Theory-Grounded Measurement of U.S. Social Stereotypes in English Language Models
+    "authors": |-
+      Yang Trista Cao, Anna Sotnikova, Hal Daumé III, Rachel Rudinger, L. Zou
+    "venue": |-
+      NAACL
+    "pdf": |-
+      https://arxiv.org/pdf/2206.11684
+  - "title": |-
+      What to Read in a Contract? Party-Specific Summarization of Legal Obligations, Entitlements, and Prohibitions
+    "authors": |-
+      Abhilasha Sancheti, Aparna Garimella, Balaji Vasan Srinivasan, Rachel Rudinger
+    "venue": |-
+      EMNLP
+    "pdf": |-
+      https://aclanthology.org/2023.emnlp-main.909.pdf
+  - "title": |-
+      Partial-input baselines show that NLI models can ignore context, but they don’t.
+    "authors": |-
+      Neha Srikanth, Rachel Rudinger
+    "venue": |-
+      NAACL
+    "pdf": |-
+      https://arxiv.org/pdf/2205.12181
+  - "title": |-
+      The First Workshop on Commonsense Representation and Reasoning May 27 , 2022
+    "authors": |-
+      Antoine Bosselut, Xiangci Li, Bill Yuchen Lin, Vered Schwartz, Bodhisattwa Prasad Majumdar, Yash Kumar Lal, Rachel Rudinger, Xiang Ren, Niket Tandon, Yucheng Lin
+  - "title": |-
+      Entailment Relation Aware Paraphrase Generation
+    "authors": |-
+      Abhilasha Sancheti, Balaji Vasan Srinivasan, Rachel Rudinger
+    "venue": |-
+      AAAI
+    "pdf": |-
+      http://arxiv.org/pdf/2203.10483
+  - "title": |-
+      Recognition of They/Them as Singular Personal Pronouns in Coreference Resolution
+    "authors": |-
+      Connor Baumler, Rachel Rudinger
+    "venue": |-
+      NAACL
+    "pdf": |-
+      https://aclanthology.org/2022.naacl-main.250.pdf
+- "year": !!int |-
+    2021
+  "papers":
+  - "title": |-
+      Human Schema Curation via Causal Association Rule Mining
+    "authors": |-
+      Noah Weber, Anton Belyy, Nils Holzenberger, Rachel Rudinger, Benjamin Van Durme
+    "venue": |-
+      Law
+  - "title": |-
+      What do Large Language Models Learn about Scripts?
+    "authors": |-
+      Abhilasha Sancheti, Rachel Rudinger
+    "venue": |-
+      STARSEM
+    "pdf": |-
+      https://aclanthology.org/2022.starsem-1.1.pdf
+  - "title": |-
+      Analyzing Stereotypes in Generative Text Inference Tasks
+    "authors": |-
+      Anna Sotnikova, Yang Trista Cao, Hal Daumé III, Rachel Rudinger
+    "venue": |-
+      Findings
+    "pdf": |-
+      https://doi.org/10.18653/v1/2021.findings-acl.355
+  - "title": |-
+      Human Schema Curation via Causal Association Rule Mining
+    "authors": |-
+      Noah Weber, Anton Belyy, Nils Holzenberger, Rachel Rudinger, Benjamin Van Durme
+    "venue": |-
+      Law
+  - "title": |-
+      MedNLI Is Not Immune: Natural Language Inference Artifacts in the Clinical Domain
+    "authors": |-
+      Christine Herlihy, Rachel Rudinger
+    "venue": |-
+      ACL
+    "pdf": |-
+      https://aclanthology.org/2021.acl-short.129.pdf
+- "year": !!int |-
+    2020
+  "papers":
+  - "title": |-
+      Learning to Rationalize for Nonmonotonic Reasoning with Distant Supervision
+    "authors": |-
+      Faeze Brahman, Vered Shwartz, Rachel Rudinger, Yejin Choi
+    "venue": |-
+      AAAI
+    "pdf": |-
+      https://ojs.aaai.org/index.php/AAAI/article/download/17492/17299
+  - "title": |-
+      Thinking Like a Skeptic: Defeasible Inference in Natural Language
+    "authors": |-
+      Rachel Rudinger, Vered Shwartz, Jena D. Hwang, Chandra Bhagavatula, Maxwell Forbes, Ronan Le Bras, Noah A. Smith, Yejin Choi
+    "venue": |-
+      Findings
+    "pdf": |-
+      https://www.aclweb.org/anthology/2020.findings-emnlp.418.pdf
+  - "title": |-
+      “You Are Grounded!”: Latent Name Artifacts in Pre-trained Language Models
+    "authors": |-
+      Vered Shwartz, Rachel Rudinger, Oyvind Tafjord
+    "venue": |-
+      EMNLP
+    "pdf": |-
+      https://www.aclweb.org/anthology/2020.emnlp-main.556.pdf
+  - "title": |-
+      Causal Inference of Script Knowledge
+    "authors": |-
+      Noah Weber, Rachel Rudinger, Benjamin Van Durme
+    "venue": |-
+      EMNLP
+    "pdf": |-
+      https://www.aclweb.org/anthology/2020.emnlp-main.612.pdf
+- "year": !!int |-
+    2019
+  "papers":
+  - "title": |-
+      The Universal Decompositional Semantics Dataset and Decomp Toolkit
+    "authors": |-
+      A. White, Elias Stengel-Eskin, Siddharth Vashishtha, Venkata S Govindarajan, Dee Ann Reisinger, Tim Vieira, Keisuke Sakaguchi, Sheng Zhang, Francis Ferraro, Rachel Rudinger, Kyle Rawlins, Benjamin Van Durme
+    "venue": |-
+      International Conference on Language Resources and Evaluation
+  - "title": |-
+      Decompositional Semantics for Events, Participants, and Scripts in Text
+    "authors": |-
+      Rachel Rudinger
+  - "title": |-
+      Metrics matter in community detection
+    "authors": |-
+      Arya D. McCarthy, Tongfei Chen, Rachel Rudinger, D. Matula
+    "venue": |-
+      International Workshop on Complex Networks & Their Applications
+    "pdf": |-
+      http://arxiv.org/pdf/1901.01354
+  - "title": |-
+      On Measuring Social Biases in Sentence Encoders
+    "authors": |-
+      Chandler May, Alex Wang, Shikha Bordia, Samuel R. Bowman, Rachel Rudinger
+    "venue": |-
+      NAACL
+    "pdf": |-
+      https://arxiv.org/pdf/1903.10561
+  - "title": |-
+      ParaBank: Monolingual Bitext Generation and Sentential Paraphrasing via Lexically-constrained Neural Machine Translation
+    "authors": |-
+      J. E. Hu, Rachel Rudinger, Matt Post, Benjamin Van Durme
+    "venue": |-
+      AAAI
+    "pdf": |-
+      https://ojs.aaai.org/index.php/AAAI/article/download/4618/4496
+- "year": !!int |-
+    2018
+  "papers":
+  - "title": |-
+      Collecting Diverse Natural Language Inference Problems for Sentence Representation Evaluation
+    "authors": |-
+      Adam Poliak, Aparajita Haldar, Rachel Rudinger, J. E. Hu, Ellie Pavlick, Aaron Steven White, Benjamin Van Durme
+    "pdf": |-
+      https://www.aclweb.org/anthology/W18-5441.pdf
+  - "title": |-
+      Neural Models of Factuality
+    "authors": |-
+      Rachel Rudinger, Aaron Steven White, Benjamin Van Durme
+    "venue": |-
+      NAACL
+    "pdf": |-
+      https://www.aclweb.org/anthology/N18-1067.pdf
+  - "title": |-
+      Cross-lingual Decompositional Semantic Parsing
+    "authors": |-
+      Sheng Zhang, Xutai Ma, Rachel Rudinger, Kevin Duh, Benjamin Van Durme
+    "venue": |-
+      EMNLP
+    "pdf": |-
+      https://www.aclweb.org/anthology/D18-1194.pdf
+  - "title": |-
+      Hypothesis Only Baselines in Natural Language Inference
+    "authors": |-
+      Adam Poliak, Jason Naradowsky, Aparajita Haldar, Rachel Rudinger, Benjamin Van Durme
+    "venue": |-
+      International Workshop on Semantic Evaluation
+    "pdf": |-
+      https://www.aclweb.org/anthology/S18-2023.pdf
+  - "title": |-
+      Gender Bias in Coreference Resolution
+    "authors": |-
+      Rachel Rudinger, Jason Naradowsky, Brian Leonard, Benjamin Van Durme
+    "venue": |-
+      NAACL
+    "pdf": |-
+      https://www.aclweb.org/anthology/N18-2002.pdf
+  - "title": |-
+      Towards a Unified Natural Language Inference Framework to Evaluate Sentence Representations
+    "authors": |-
+      Adam Poliak, Aparajita Haldar, Rachel Rudinger, J. E. Hu, Ellie Pavlick, A. White, Benjamin Van Durme
+    "venue": |-
+      arXiv
+  - "title": |-
+      Neural-Davidsonian Semantic Proto-role Labeling
+    "authors": |-
+      Rachel Rudinger, Adam R. Teichert, Ryan Culkin, Sheng Zhang, Benjamin Van Durme
+    "venue": |-
+      EMNLP
+    "pdf": |-
+      https://www.aclweb.org/anthology/D18-1114.pdf
+  - "title": |-
+      Lexicosyntactic Inference in Neural Models
+    "authors": |-
+      Aaron Steven White, Rachel Rudinger, Kyle Rawlins, Benjamin Van Durme
+    "venue": |-
+      EMNLP
+    "pdf": |-
+      https://www.aclweb.org/anthology/D18-1501.pdf
+- "year": !!int |-
+    2017
+  "papers":
+  - "title": |-
+      Social Bias in Elicited Natural Language Inferences
+    "authors": |-
+      Rachel Rudinger, Chandler May, Benjamin Van Durme
+    "venue": |-
+      EthNLP@EACL
+    "pdf": |-
+      https://www.aclweb.org/anthology/W17-1609.pdf
+  - "title": |-
+      An Evaluation of PredPatt and Open IE via Stage 1 Semantic Role Labeling
+    "authors": |-
+      Sheng Zhang, Rachel Rudinger, Benjamin Van Durme
+    "venue": |-
+      IWCS
+  - "title": |-
+      Skip-Prop: Representing Sentences with One Vector Per Proposition
+    "authors": |-
+      Rachel Rudinger, Kevin Duh, Benjamin Van Durme
+    "venue": |-
+      IWCS
+- "year": !!int |-
+    2016
+  "papers":
+  - "title": |-
+      Universal Decompositional Semantics on Universal Dependencies
+    "authors": |-
+      Aaron Steven White, D. Reisinger, Keisuke Sakaguchi, Tim Vieira, Sheng Zhang, Rachel Rudinger, Kyle Rawlins, Benjamin Van Durme
+    "venue": |-
+      EMNLP
+    "pdf": |-
+      https://aclanthology.org/D16-1177.pdf
+  - "title": |-
+      Ordinal Common-sense Inference
+    "authors": |-
+      Sheng Zhang, Rachel Rudinger, Kevin Duh, Benjamin Van Durme
+    "venue": |-
+      TACL
+    "pdf": |-
+      http://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00068
+  - "title": |-
+      Computational linking theory
+    "authors": |-
+      A. White, D. Reisinger, Rachel Rudinger, Kyle Rawlins, Benjamin Van Durme
+    "venue": |-
+      arXiv
+- "year": !!int |-
+    2015
+  "papers":
+  - "title": |-
+      Script Induction as Language Modeling
+    "authors": |-
+      Rachel Rudinger, Pushpendre Rastogi, Francis Ferraro, Benjamin Van Durme
+    "venue": |-
+      EMNLP
+    "pdf": |-
+      https://www.aclweb.org/anthology/D15-1195.pdf
+  - "title": |-
+      Semantic Proto-Roles
+    "authors": |-
+      D. Reisinger, Rachel Rudinger, Francis Ferraro, Craig Harman, Kyle Rawlins, Benjamin Van Durme
+    "venue": |-
+      TACL
+    "pdf": |-
+      http://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00152
+  - "title": |-
+      Learning to predict script events from domain-specific text
+    "authors": |-
+      Rachel Rudinger, Vera Demberg, Ashutosh Modi, Benjamin Van Durme, Manfred Pinkal
+    "venue": |-
+      International Workshop on Semantic Evaluation
+    "pdf": |-
+      https://doi.org/10.18653/v1/s15-1024
+- "year": !!int |-
+    2014
+  "papers":
+  - "title": |-
+      Is the Stanford Dependency Representation Semantic?
+    "authors": |-
+      Rachel Rudinger, Benjamin Van Durme
+    "venue": |-
+      EVENTS@ACL
+    "pdf": |-
+      http://www.aclweb.org/anthology/W/W14/W14-2908.pdf
+- "year": !!int |-
+    2013
+  "papers":
+  - "title": |-
+      Domain Adaptation in Machine Translation : Final Report
+    "authors": |-
+      Marine Carpuat, Hal Daumé III, Alexander M. Fraser, Chris Quirk, Fabienne Braune, Ann Clifton, Ann Irvine, Jagadeesh Jagarlamudi, John Morgan, M. Razmara, A. Tamchyna, Katharine Henry, Rachel Rudinger
+  - "title": |-
+      SenseSpotting: Never let your parallel data tie you to an old domain
+    "authors": |-
+      Marine Carpuat, Hal Daumé III, Katharine Henry, Ann Irvine, Jagadeesh Jagarlamudi, Rachel Rudinger
+    "venue": |-
+      ACL

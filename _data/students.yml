@@ -1,0 +1,9 @@
+- title: "Ph.D. Students"
+  students:
+    - name: "Nishant Balepur"
+      image: "nishant.png"
+      website: "https://nbalepur.github.io/"
+      email: "nbalepur@umd.edu"
+      twitter: "nbalepur"
+      google_scholar: "https://scholar.google.com/citations?user=QKCHaHUAAAAJ"
+      keywords: "alignment, evaluation, NLP+education"

@@ -30,11 +30,27 @@ google_scholar: https://scholar.google.com/citations?user=QKCHaHUAAAAJ&hl=en&oi=
 # this and add the path to the pages in order as they should show up
 header_pages:
  - publications.md
+ - students.md
 # - cv.md
 # - news.md
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  coderay:
+    coderay_line_numbers: inline
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: style
 theme: minima
 gems:
   - jekyll-feed
