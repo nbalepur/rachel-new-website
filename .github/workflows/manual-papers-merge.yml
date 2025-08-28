@@ -31,15 +31,27 @@ jobs:
     - name: Run papers merge script
       run: |
         echo "🔄 Running get_papers_merge.py..."
-        python3 get_papers_merge.py
+        echo "📁 Current directory: $(pwd)"
+        echo "📁 Data directory contents:"
+        ls -la _data/
+        
+        # Run the script with the correct output file
+        python3 get_papers_merge.py --output "_data/papers.yml"
+        
+        echo "📊 Script completed. Checking for changes..."
         
     - name: Check for changes
       id: check_changes
       run: |
-        if git diff --quiet; then
+        echo "🔍 Checking for changes in papers.yml..."
+        if git diff --quiet _data/papers.yml; then
           echo "no_changes=true" >> $GITHUB_OUTPUT
+          echo "ℹ️ No changes detected in papers.yml"
         else
           echo "no_changes=false" >> $GITHUB_OUTPUT
+          echo "✅ Changes detected in papers.yml"
+          echo "📝 Changes summary:"
+          git diff --stat _data/papers.yml
         fi
         
     - name: Commit and push changes
@@ -48,7 +60,7 @@ jobs:
         echo "📝 Changes detected. Committing and pushing..."
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add .
+        git add _data/papers.yml
         git commit -m "🤖 Auto-update papers from get_papers_merge.py script"
         git push
         echo "✅ Changes committed and pushed successfully!"
