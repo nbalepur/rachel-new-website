@@ -1,0 +1,64 @@
+name: Manual Papers Merge
+
+# This workflow ONLY runs when manually triggered
+# It won't interfere with normal GitHub Pages deployment
+# Use it when you want to update papers from Semantic Scholar
+
+on:
+  workflow_dispatch: # Manual trigger only
+
+jobs:
+  papers-merge:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        if [ -f requirements.txt ]; then
+          pip install -r requirements.txt
+        fi
+        
+    - name: Run papers merge script
+      run: |
+        echo "🔄 Running get_papers_merge.py..."
+        python3 get_papers_merge.py
+        
+    - name: Check for changes
+      id: check_changes
+      run: |
+        if git diff --quiet; then
+          echo "no_changes=true" >> $GITHUB_OUTPUT
+        else
+          echo "no_changes=false" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Commit and push changes
+      if: steps.check_changes.outputs.no_changes == 'false'
+      run: |
+        echo "📝 Changes detected. Committing and pushing..."
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add .
+        git commit -m "🤖 Auto-update papers from get_papers_merge.py script"
+        git push
+        echo "✅ Changes committed and pushed successfully!"
+        
+    - name: No changes detected
+      if: steps.check_changes.outputs.no_changes == 'true'
+      run: |
+        echo "ℹ️ No changes detected. Papers are already up to date!"
+        
+    - name: Workflow complete
+      run: |
+        echo "🎉 Papers merge workflow completed!"
+        echo "📊 Check the Actions tab for detailed logs."
