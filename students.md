@@ -25,6 +25,65 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
+<style>
+  .student-contact-actions {
+    margin: 10px 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .student-contact-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 10px;
+    border: 1px solid #d0d7de;
+    border-radius: 999px;
+    color: #24292f;
+    background: #f6f8fa;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 1.2;
+    cursor: pointer;
+    font-family: inherit;
+  }
+
+  .student-contact-btn:hover {
+    background: #eef2f6;
+    text-decoration: none;
+  }
+
+  .student-contact-btn:visited,
+  .student-contact-btn:active,
+  .student-contact-btn:focus {
+    color: #24292f;
+  }
+
+  .student-contact-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 16px;
+    height: 16px;
+  }
+
+  .student-contact-icon-img {
+    width: 16px;
+    height: 16px;
+    object-fit: contain;
+    display: block;
+  }
+
+  @media (max-width: 640px) {
+    .student-contact-actions {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 8px;
+    }
+  }
+</style>
+
 {% for category in site.data.students %}
 ## {{ category.title }}
 
@@ -35,33 +94,25 @@ document.addEventListener('DOMContentLoaded', function() {
          style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; margin-right: 20px; flex-shrink: 0;">
     
            <div style="flex: 1; display: flex; flex-direction: column;">
-        <h3 style="margin: 0;">
-          {% if student.website %}
-            <a href="{{ student.website }}" target="_blank">{{ student.name }}</a>
-          {% else %}
-            {{ student.name }}
-          {% endif %}
-        </h3>
+        <h3 style="margin: 0;">{{ student.name }}</h3>
         
-        <div style="margin: 10px 0; display: flex; gap: 20px;">
-          {% if student.email %}
-            <div style="display: flex; align-items: center;">
-              <span class="icon icon--email" style="margin-right: 4px; display: flex; align-items: center; justify-content: center; width: 16px; height: 16px;">{% include icon-email.svg %}</span>
-              <span style="color: #666;">{{ student.email | replace: '@', ' AT ' | replace: '.', ' DOT ' }}</span>
-            </div>
+        <div class="student-contact-actions">
+          {% if student.twitter %}
+            <a href="https://twitter.com/{{ student.twitter }}" target="_blank" rel="noopener noreferrer" class="student-contact-btn">
+              <span class="student-contact-icon">
+                <img src="{{ site.baseurl }}/assets/icons/twitter.svg" alt="" class="student-contact-icon-img">
+              </span>
+              <span>Twitter</span>
+            </a>
           {% endif %}
 
-          {% if student.twitter %}
-            <div style="display: flex; align-items: center;">
-              <span class="icon icon--twitter" style="margin-right: 4px; display: flex; align-items: center; justify-content: center; width: 16px; height: 16px;">{% include icon-twitter.svg %}</span>
-              <a href="https://twitter.com/{{ student.twitter }}" target="_blank" style="color: #0366d6; text-decoration: none;">@{{ student.twitter }}</a>
-            </div>
-          {% endif %}
-          {% if student.google_scholar %}
-            <div style="display: flex; align-items: center;">
-              <span class="icon icon--google_scholar" style="margin-right: 4px; display: flex; align-items: center; justify-content: center; width: 16px; height: 16px;">{% include icon-google_scholar.svg %}</span>
-              <a href="{{ student.google_scholar }}" target="_blank" style="color: #0366d6; text-decoration: none;">Google Scholar</a>
-            </div>
+          {% if student.website %}
+            <a href="{{ student.website }}" target="_blank" rel="noopener noreferrer" class="student-contact-btn">
+              <span class="student-contact-icon">
+                <img src="{{ site.baseurl }}/assets/icons/globe.svg" alt="" class="student-contact-icon-img">
+              </span>
+              <span>Website</span>
+            </a>
           {% endif %}
         </div>
         

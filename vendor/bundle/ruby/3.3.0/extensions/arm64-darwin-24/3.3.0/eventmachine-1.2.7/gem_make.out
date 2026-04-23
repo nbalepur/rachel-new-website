@@ -1,0 +1,19 @@
+current directory: /Users/nishantbalepur/Desktop/Repositories/rudinger.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/nishantbalepur/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/nishantbalepur/Desktop/Repositories/rudinger.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260423-33263-lwyaws sitelibdir\=./.gem.20260423-33263-lwyaws clean
+
+current directory: /Users/nishantbalepur/Desktop/Repositories/rudinger.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260423-33263-lwyaws sitelibdir\=./.gem.20260423-33263-lwyaws
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/nishantbalepur/Desktop/Repositories/rudinger.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260423-33263-lwyaws sitelibdir\=./.gem.20260423-33263-lwyaws install
+/opt/homebrew/bin/ginstall -c -m 0755 fastfilereaderext.bundle ./.gem.20260423-33263-lwyaws
+
+current directory: /Users/nishantbalepur/Desktop/Repositories/rudinger.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260423-33263-lwyaws sitelibdir\=./.gem.20260423-33263-lwyaws clean
