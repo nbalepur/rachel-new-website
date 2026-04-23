@@ -225,9 +225,8 @@ def format_paper_for_yaml(paper: Dict, venue_mapping: Dict[str, str], author_nam
     if paper.get("openAccessPdf", {}).get("url"):
         pdf_url = paper["openAccessPdf"]["url"]
     elif paper.get("url"):
-        url = paper["url"]
-        if url.endswith('.pdf') or 'arxiv.org/pdf' in url:
-            pdf_url = url
+        # Fallback to Semantic Scholar URL so link still renders.
+        pdf_url = paper["url"]
     
     if pdf_url:
         formatted_paper["pdf"] = pdf_url

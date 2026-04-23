@@ -33,14 +33,217 @@ To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
 [33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
 [33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
 [33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    done in 0.098 seconds.
+                    done in 0.096 seconds.
  Auto-regeneration: enabled for '/Users/nishantbalepur/Desktop/Repositories/rudinger.github.io'
     Server address: http://127.0.0.1:4000/rachel-new-website/
   Server running... press ctrl-c to stop.
-[2026-04-23 15:08:03] ERROR '/.well-known/appspecific/com.chrome.devtools.json' not found.
-      Regenerating: 2 file(s) changed at 2026-04-23 15:09:43
+[2026-04-23 15:20:39] ERROR '/favicon.ico' not found.
+[2026-04-23 15:20:39] ERROR '/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2026-04-23 15:20:54
+                    _data/papers_copy.yml
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.096347 seconds.
+                    
+[2026-04-23 15:21:05] ERROR '/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2026-04-23 15:21:36
+                    _data/papers.yml
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.083999 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-04-23 15:21:37
+                    _data/papers.yml
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.07268 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-04-23 15:21:42
+                    _data/papers_old.yml
+                    _data/papers_copy.yml
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.073695 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-04-23 15:22:31
+                    _data/papers_copy.yml
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.092884 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-04-23 15:22:36
+                    _data/papers_copy.yml
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.072092 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-04-23 15:22:40
+                    _data/papers_copy.yml
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.076163 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-04-23 15:22:57
+                    _data/papers_copy.yml
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.065543 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-04-23 15:24:02
                     .jekyll.log
-                    students.md
+                    README.md
        Jekyll Feed: Generating feed for posts
 [33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
 [33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
@@ -62,13 +265,11 @@ To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
 [33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
 [33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
 [33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.076121 seconds.
+                    ...done in 0.066324 seconds.
                     
-[2026-04-23 15:09:52] ERROR '/favicon.ico' not found.
-[2026-04-23 15:10:34] ERROR '/.well-known/appspecific/com.chrome.devtools.json' not found.
-      Regenerating: 2 file(s) changed at 2026-04-23 15:11:18
+      Regenerating: 2 file(s) changed at 2026-04-23 15:24:04
                     .jekyll.log
-                    students.md
+                    README.md
        Jekyll Feed: Generating feed for posts
 [33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
 [33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
@@ -90,116 +291,11 @@ To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
 [33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
 [33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
 [33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.063741 seconds.
+                    ...done in 0.097367 seconds.
                     
-      Regenerating: 3 file(s) changed at 2026-04-23 15:12:33
-                    assets/icons/globe-svgrepo-com.svg
-                    assets/icons/email-svgrepo-com.svg
-                    assets/icons/mail-svgrepo-com.svg
-       Jekyll Feed: Generating feed for posts
-[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
-[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
-[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
-[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
-[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
-[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.083778 seconds.
-                    
-      Regenerating: 2 file(s) changed at 2026-04-23 15:12:41
-                    assets/icons/email.svg
-                    assets/icons/email-svgrepo-com.svg
-       Jekyll Feed: Generating feed for posts
-[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
-[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
-[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
-[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
-[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
-[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.08835 seconds.
-                    
-      Regenerating: 2 file(s) changed at 2026-04-23 15:12:45
-                    assets/icons/globe.svg
-                    assets/icons/globe-svgrepo-com.svg
-       Jekyll Feed: Generating feed for posts
-[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
-[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
-[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
-[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
-[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
-[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.092744 seconds.
-                    
-      Regenerating: 2 file(s) changed at 2026-04-23 15:12:47
-                    assets/icons/mail.svg
-                    assets/icons/mail-svgrepo-com.svg
-       Jekyll Feed: Generating feed for posts
-[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
-[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
-[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
-[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
-[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
-[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.080287 seconds.
-                    
-      Regenerating: 2 file(s) changed at 2026-04-23 15:13:07
+      Regenerating: 2 file(s) changed at 2026-04-23 15:24:04
                     .jekyll.log
-                    students.md
+                    README.md
        Jekyll Feed: Generating feed for posts
 [33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
 [33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
@@ -221,88 +317,11 @@ To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
 [33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
 [33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
 [33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.085294 seconds.
+                    ...done in 0.065987 seconds.
                     
-      Regenerating: 1 file(s) changed at 2026-04-23 15:13:27
-                    assets/icons/book-open-svgrepo-com.svg
-       Jekyll Feed: Generating feed for posts
-[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
-[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
-[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
-[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
-[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
-[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.090539 seconds.
-                    
-      Regenerating: 2 file(s) changed at 2026-04-23 15:13:34
-                    assets/icons/book.svg
-                    assets/icons/book-open-svgrepo-com.svg
-       Jekyll Feed: Generating feed for posts
-[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
-[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
-[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
-[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
-[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
-[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.082951 seconds.
-                    
-      Regenerating: 2 file(s) changed at 2026-04-23 15:13:51
-                    assets/icons/twitter.svg
-                    assets/icons/email.svg
-       Jekyll Feed: Generating feed for posts
-[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
-[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
-[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
-[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
-[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
-[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.07562 seconds.
-                    
-      Regenerating: 2 file(s) changed at 2026-04-23 15:14:20
+      Regenerating: 2 file(s) changed at 2026-04-23 15:24:09
                     .jekyll.log
-                    students.md
+                    README.md
        Jekyll Feed: Generating feed for posts
 [33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
 [33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
@@ -324,161 +343,11 @@ To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
 [33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
 [33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
 [33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.069818 seconds.
+                    ...done in 0.069477 seconds.
                     
-      Regenerating: 1 file(s) changed at 2026-04-23 15:14:23
-                    _includes/icon-email.html
-       Jekyll Feed: Generating feed for posts
-[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
-[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
-[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
-[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
-[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
-[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.064742 seconds.
-                    
-      Regenerating: 1 file(s) changed at 2026-04-23 15:14:25
-                    _includes/icon-google_scholar.html
-       Jekyll Feed: Generating feed for posts
-[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
-[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
-[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
-[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
-[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
-[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.067816 seconds.
-                    
-      Regenerating: 1 file(s) changed at 2026-04-23 15:14:27
-                    _includes/icon-twitter.html
-       Jekyll Feed: Generating feed for posts
-[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
-[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
-[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
-[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
-[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
-[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.058066 seconds.
-                    
-      Regenerating: 1 file(s) changed at 2026-04-23 15:15:11
-                    _includes/icon-email.html
-       Jekyll Feed: Generating feed for posts
-[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
-[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
-[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
-[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
-[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
-[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.078092 seconds.
-                    
-      Regenerating: 1 file(s) changed at 2026-04-23 15:15:20
-                    _includes/icon-twitter.html
-       Jekyll Feed: Generating feed for posts
-[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
-[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
-[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
-[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
-[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
-[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.070795 seconds.
-                    
-      Regenerating: 1 file(s) changed at 2026-04-23 15:15:24
-                    _includes/icon-google_scholar.html
-       Jekyll Feed: Generating feed for posts
-[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
-[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
-[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
-[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
-[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
-[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
-[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
-[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
-[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
-[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.07003 seconds.
-                    
-      Regenerating: 2 file(s) changed at 2026-04-23 15:15:46
+      Regenerating: 2 file(s) changed at 2026-04-23 15:24:15
                     .jekyll.log
-                    students.md
+                    README.md
        Jekyll Feed: Generating feed for posts
 [33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
 [33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
@@ -500,11 +369,11 @@ To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
 [33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
 [33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
 [33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.072079 seconds.
+                    ...done in 0.102466 seconds.
                     
-      Regenerating: 2 file(s) changed at 2026-04-23 15:16:40
+      Regenerating: 2 file(s) changed at 2026-04-23 15:24:15
                     .jekyll.log
-                    students.md
+                    README.md
        Jekyll Feed: Generating feed for posts
 [33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
 [33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
@@ -526,10 +395,11 @@ To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
 [33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
 [33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
 [33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.077887 seconds.
+                    ...done in 0.070114 seconds.
                     
-      Regenerating: 1 file(s) changed at 2026-04-23 15:16:43
-                    _includes/icon-email.html
+      Regenerating: 2 file(s) changed at 2026-04-23 15:24:24
+                    .jekyll.log
+                    README.md
        Jekyll Feed: Generating feed for posts
 [33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
 [33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
@@ -551,5 +421,544 @@ To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
 [33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
 [33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
 [33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
-                    ...done in 0.076065 seconds.
+                    ...done in 0.084205 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-04-23 15:24:26
+                    .jekyll.log
+                    README.md
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.078664 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-04-23 15:24:28
+                    .jekyll.log
+                    README.md
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.080293 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-04-23 15:24:29
+                    .jekyll.log
+                    README.md
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.080162 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-04-23 15:24:38
+                    .jekyll.log
+                    README.md
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.094184 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-04-23 15:24:38
+                    .jekyll.log
+                    README.md
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.069595 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-04-23 15:24:38
+                    .jekyll.log
+                    README.md
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.070088 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-04-23 15:24:42
+                    .jekyll.log
+                    README.md
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.07053 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-04-23 15:24:42
+                    .jekyll.log
+                    README.md
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.069343 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-04-23 15:24:46
+                    _data/papers_copy.yml
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.070645 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-04-23 15:24:46
+                    .jekyll.log
+                    README.md
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.078085 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-04-23 15:25:01
+                    _data/papers_copy.yml
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.077429 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-04-23 15:25:30
+                    .jekyll.log
+                    get_papers.py
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.067291 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-04-23 15:25:33
+                    get_papers_merge.py
+                    .jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.077481 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-04-23 15:25:36
+                    get_papers_merge.py
+                    .jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.067599 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-04-23 15:25:36
+                    get_papers_merge.py
+                    .jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.061602 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-04-23 15:25:40
+                    _data/papers_copy.yml
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.085113 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-04-23 15:25:47
+                    _data/papers.yml
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.085738 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-04-23 15:25:47
+                    _data/papers.yml
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.078856 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-04-23 15:25:47
+                    _data/papers.yml
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.071507 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-04-23 15:26:06
+                    _data/papers.yml
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.075698 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-04-23 15:26:09
+                    .jekyll.log
+                    get_papers.py
+       Jekyll Feed: Generating feed for posts
+[33m       Deprecation: You are using 'kramdown.coderay' in your configuration, please use 'syntax_highlighter_opts' instead.[0m
+[33m       Deprecation: You are using 'default_lang'. Normalizing to default_lang.[0m
+[33m       Deprecation: You are using 'guess_lang'. Normalizing to guess_lang.[0m
+[33m       Deprecation: You are using 'css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'line_number_start'. Normalizing to line_number_start.[0m
+[33m       Deprecation: You are using 'tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'wrap'. Normalizing to wrap.[0m
+[33m       Deprecation: You are using 'line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers'. Normalizing to line_numbers.[0m
+[33m       Deprecation: You are using 'coderay_line_numbers_start'. Normalizing to line_numbers_start.[0m
+[33m       Deprecation: You are using 'coderay_tab_width'. Normalizing to tab_width.[0m
+[33m       Deprecation: You are using 'coderay_bold_every'. Normalizing to bold_every.[0m
+[33m       Deprecation: You are using 'coderay_css'. Normalizing to css.[0m
+                    ...done in 0.068309 seconds.
                     
